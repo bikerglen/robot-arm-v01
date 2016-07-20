@@ -1,0 +1,19 @@
+Item #: CVD215-K,  CVK Series Driver   	 1
+Item #: LCS01CVK2,  Connection Cable Set   	 1
+
+Item #: LC5N06A,  Motor Cable (2 ft. [0.6 m])   	 2
+Item #: LCS04SD5,  Driver Lead Wire Set   	 1
+
+Item #: CVD512-K,  CVK Series Driver   	 1
+
+Item #: PKP268D28AA-L,  Stepper Motor   	 1
+
+Item #: PKP244D15A-L,  Stepper Motor   	 1
+Item #: CVD228-K,  CVK Series Driver   	 1
+
+Item #: PKP268D28AA-L,  Stepper Motor   	 1
+
+Item #: CVD228-K,  CVK Series Driver   	 1 
+
+Item #: CVD215-K,  CVK Series Driver   	 1
+Item #: LC2B06B,  Motor Cable (2 ft. [0.6 m])   	 1
